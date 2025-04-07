@@ -1,4 +1,5 @@
 ## Hi there 👋
+-Fan of Chiba Lotte Marines and Texas Rangers
 
 <!--
 **Carlyas11295/Carlyas11295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
